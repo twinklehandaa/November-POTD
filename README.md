@@ -7,9 +7,8 @@ This month, I’m continuing my coding streak by solving **one problem every day
 
 ## 📅 Challenge Goals
 💬 *“One problem a day keeps the brain bugs away.”*
-- 🧠 Solve **1 LeetCode POTD daily** (in Java)
+- 🧠 Solve/try **1 LeetCode POTD daily** (in Java)
 - 🔍 Strengthen understanding of core DSA patterns
-- 🚀 Keep the streak alive for all 30 days!
 
 ---
 
