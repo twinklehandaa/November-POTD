@@ -20,6 +20,7 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 2 | [Count Unguarded Cells in the Grid (#2257)](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Simulation, Matrix, Optimization | [`CountUnguardedCellsInTheGrid.java`](./CountUnguardedCellsInTheGrid.java) |
 | 3 | [Minimum Time to Make Rope Colorful (#1578)](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Greedy, String, Array | [`MinimumTimeToMakeRopeColorful.java`](./MinimumCostToMakeRopeColorful.java) |
 | 8 | [Minimum One Bit Operations to Make Integers Zero (#1578)](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Bit Manipulation | [`MinimumOneBitOperationsToMakeIntegersZero.java`](./MinimumOneBitOperationsToMakeIntegersZero.java) |
+| 9 | [Count Operations to Obtain Zero (#2169)](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Math, Conditions | [`CountOperationsToObtainZero.java`](./CountOperationsToObtainZero.java) |
 
 
 ---
