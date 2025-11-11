@@ -22,6 +22,7 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 8 | [Minimum One Bit Operations to Make Integers Zero (#1578)](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Bit Manipulation | [`MinimumOneBitOperationsToMakeIntegersZero.java`](./MinimumOneBitOperationsToMakeIntegersZero.java) |
 | 9 | [Count Operations to Obtain Zero (#2169)](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Math, Conditions | [`CountOperationsToObtainZero.java`](./CountOperationsToObtainZero.java) |
 | 10 | [Minimum Operations to Convert All Elements to Zero (#3542)](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Math, Stack, Array | [`MinimumOperationsToConvertAllElementsToZero.java`](./MinimumOperationsToConvertAllElementsToZero.java) |
+| 11 | [Ones and Zeroes (#474)](https://leetcode.com/problems/ones-and-zeroes/) | Knapsack, Array | [`OnesAndZeroes.java`](./OnesAndZeroes.java) |
 
 
 ---
