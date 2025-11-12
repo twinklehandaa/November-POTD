@@ -17,12 +17,13 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | Day | Problem | Topic | My Solution |
 |-----|----------|--------|--------------|
 | 1 | [Delete Nodes From Linked List Present in Array (#3217)](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Linked List, HashSet | [`DeleteNodesFromLinkedListPresentInArray.java`](./DeleteNodesFromLinkedListPresentInArray.java) |
-| 2 | [Count Unguarded Cells in the Grid (#2257)](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Simulation, Matrix, Optimization | [`CountUnguardedCellsInTheGrid.java`](./CountUnguardedCellsInTheGrid.java) |
-| 3 | [Minimum Time to Make Rope Colorful (#1578)](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Greedy, String, Array | [`MinimumTimeToMakeRopeColorful.java`](./MinimumCostToMakeRopeColorful.java) |
+| 2 | [Count Unguarded Cells in the Grid (#2257)](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Simulation, Matrix | [`CountUnguardedCellsInTheGrid.java`](./CountUnguardedCellsInTheGrid.java) |
+| 3 | [Minimum Time to Make Rope Colorful (#1578)](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Greedy | [`MinimumTimeToMakeRopeColorful.java`](./MinimumCostToMakeRopeColorful.java) |
 | 8 | [Minimum One Bit Operations to Make Integers Zero (#1578)](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Bit Manipulation | [`MinimumOneBitOperationsToMakeIntegersZero.java`](./MinimumOneBitOperationsToMakeIntegersZero.java) |
-| 9 | [Count Operations to Obtain Zero (#2169)](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Math, Conditions | [`CountOperationsToObtainZero.java`](./CountOperationsToObtainZero.java) |
+| 9 | [Count Operations to Obtain Zero (#2169)](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Math | [`CountOperationsToObtainZero.java`](./CountOperationsToObtainZero.java) |
 | 10 | [Minimum Operations to Convert All Elements to Zero (#3542)](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Math, Stack, Array | [`MinimumOperationsToConvertAllElementsToZero.java`](./MinimumOperationsToConvertAllElementsToZero.java) |
-| 11 | [Ones and Zeroes (#474)](https://leetcode.com/problems/ones-and-zeroes/) | Knapsack, Array | [`OnesAndZeroes.java`](./OnesAndZeroes.java) |
+| 11 | [Ones and Zeroes (#474)](https://leetcode.com/problems/ones-and-zeroes/) | Knapsack | [`OnesAndZeroes.java`](./OnesAndZeroes.java) |
+| 10 | [Minimum Number of Operations to Make All Array Elements Equal to 1 (#2654)](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | GCD | [`MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java`](./MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java) |
 
 
 ---
