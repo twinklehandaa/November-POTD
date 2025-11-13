@@ -23,7 +23,8 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 9 | [Count Operations to Obtain Zero (#2169)](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Math | [`CountOperationsToObtainZero.java`](./CountOperationsToObtainZero.java) |
 | 10 | [Minimum Operations to Convert All Elements to Zero (#3542)](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | Math, Stack, Array | [`MinimumOperationsToConvertAllElementsToZero.java`](./MinimumOperationsToConvertAllElementsToZero.java) |
 | 11 | [Ones and Zeroes (#474)](https://leetcode.com/problems/ones-and-zeroes/) | Knapsack | [`OnesAndZeroes.java`](./OnesAndZeroes.java) |
-| 10 | [Minimum Number of Operations to Make All Array Elements Equal to 1 (#2654)](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | GCD | [`MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java`](./MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java) |
+| 12 | [Minimum Number of Operations to Make All Array Elements Equal to 1 (#2654)](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | GCD | [`MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java`](./MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java) |
+| 13 | [Maximum Number of Operations to Move Ones to the End (#3228)](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | Strings | [`MaxNumberOfOperationsToMoveOnesTOTheEnd.java`](./MaxNumberOfOperationsToMoveOnesTOTheEnd.java) |
 
 
 ---
