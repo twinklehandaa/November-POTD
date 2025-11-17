@@ -25,8 +25,8 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 11 | [Ones and Zeroes (#474)](https://leetcode.com/problems/ones-and-zeroes/) | Knapsack | [`OnesAndZeroes.java`](./OnesAndZeroes.java) |
 | 12 | [Minimum Number of Operations to Make All Array Elements Equal to 1 (#2654)](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | GCD | [`MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java`](./MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.java) |
 | 13 | [Maximum Number of Operations to Move Ones to the End (#3228)](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | Strings | [`MaxNumberOfOperationsToMoveOnesTOTheEnd.java`](./MaxNumberOfOperationsToMoveOnesTOTheEnd.java) |
-| 16 | [Number of Substrings with Only 1s (#1513)](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Strings, Math | [`MaxNumberOfOperationsToMoveOnesTOTheEnd.java`](./MaxNumberOfOperationsToMoveOnesTOTheEnd.java) |
-| 17 | [Check if All 1's Are at Least Length K Places Away (#1437)](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Array | [`MaxNumberOfOperationsToMoveOnesTOTheEnd.java`](./MaxNumberOfOperationsToMoveOnesTOTheEnd.java) |
+| 16 | [Number of Substrings with Only 1s (#1513)](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Strings, Math | [`NumberOfSubstringsWithOnly1s.java`](./NumberOfSubstringsWithOnly1s.java) |
+| 17 | [Check if All 1's Are at Least Length K Places Away (#1437)](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Array | [`CheckIfAll1sAreAtLeastKPlacesAway.java`](./CheckIfAll1sAreAtLeastKPlacesAway.java) |
 
 
 ---
