@@ -27,6 +27,8 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 13 | [Maximum Number of Operations to Move Ones to the End (#3228)](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | Strings | [`MaxNumberOfOperationsToMoveOnesTOTheEnd.java`](./MaxNumberOfOperationsToMoveOnesTOTheEnd.java) |
 | 16 | [Number of Substrings with Only 1s (#1513)](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Strings, Math | [`NumberOfSubstringsWithOnly1s.java`](./NumberOfSubstringsWithOnly1s.java) |
 | 17 | [Check if All 1's Are at Least Length K Places Away (#1437)](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Array | [`CheckIfAll1sAreAtLeastKPlacesAway.java`](./CheckIfAll1sAreAtLeastKPlacesAway.java) |
+| 18 | [1-bit and 2-bit Characters (#717)](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Bit Manipulation, Math | [`1BitAnd2BitCharacters.java`](./1BitAnd2BitCharacters.java) |
+
 
 
 ---
