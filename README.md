@@ -28,6 +28,10 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 16 | [Number of Substrings with Only 1s (#1513)](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Strings, Math | [`NumberOfSubstringsWithOnly1s.java`](./NumberOfSubstringsWithOnly1s.java) |
 | 17 | [Check if All 1's Are at Least Length K Places Away (#1437)](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | Array | [`CheckIfAll1sAreAtLeastKPlacesAway.java`](./CheckIfAll1sAreAtLeastKPlacesAway.java) |
 | 18 | [1-bit and 2-bit Characters (#717)](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Bit Manipulation, Math | [`1BitAnd2BitCharacters.java`](./1BitAnd2BitCharacters.java) |
+| 20 | [Keep Multiplying Found Values By Two (#2154)](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Bit Manipulation, Math | [`1BitAnd2BitCharacters.java`](./1BitAnd2BitCharacters.java) |
+| 21 | [Unique Length-3 Palindromic Subsquences (#1930)](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Strings | [`UniqueLength3PalindromicSequences.java`](./UniqueLength3PalindromicSequences.java) |
+
+
 
 
 
