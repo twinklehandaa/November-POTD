@@ -30,6 +30,6 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 18 | [1-bit and 2-bit Characters (#717)](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | Bit Manipulation, Math | [`1BitAnd2BitCharacters.java`](./1BitAnd2BitCharacters.java) |
 | 20 | [Keep Multiplying Found Values By Two (#2154)](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | Array | [`KeepMultiplyingFoundValuesByTwo.java`](./KeepMultiplyingFoundValuesByTwo.java) |
 | 21 | [Unique Length-3 Palindromic Subsquences (#1930)](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Strings | [`UniqueLength3PalindromicSequences.java`](./UniqueLength3PalindromicSequences.java) |
-
+| 12 | [Find Minimum Number of Operations to Make All Elements Divisible by Three (#3190)](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Array, Math | [`FindMinimumOperationsToMakeAllElementsDivisibleByThree.java`](./FindMinimumOperationsToMakeAllElementsDivisibleByThree.java) |
 
 ---
