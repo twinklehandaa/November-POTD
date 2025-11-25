@@ -31,6 +31,8 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 20 | [Keep Multiplying Found Values By Two (#2154)](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | Array | [`KeepMultiplyingFoundValuesByTwo.java`](./KeepMultiplyingFoundValuesByTwo.java) |
 | 21 | [Unique Length-3 Palindromic Subsquences (#1930)](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Strings | [`UniqueLength3PalindromicSequences.java`](./UniqueLength3PalindromicSequences.java) |
 | 22 | [Find Minimum Number of Operations to Make All Elements Divisible by Three (#3190)](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Array, Math | [`FindMinimumOperationsToMakeAllElementsDivisibleByThree.java`](./FindMinimumOperationsToMakeAllElementsDivisibleByThree.java) |
-| 23 | [Binary Prefix Divisible by 5 (#1018)](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | Bit Manipulation | [`BinaryPrefixDivisibleBy5.java`](./BinaryPrefixDivisibleBy5.java) |
+| 24 | [Binary Prefix Divisible by 5 (#1018)](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | Bit Manipulation | [`BinaryPrefixDivisibleBy5.java`](./BinaryPrefixDivisibleBy5.java) |
+| 25 | [Smallest Integer Divisible by K (#1015)](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Math | [`SmallestIntegerDivisibleByK.java`](./SmallestIntegerDivisibleByK.java) |
+
 
 ---
