@@ -33,6 +33,8 @@ This month, I’m continuing my coding streak by solving **one problem every day
 | 22 | [Find Minimum Number of Operations to Make All Elements Divisible by Three (#3190)](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Array, Math | [`FindMinimumOperationsToMakeAllElementsDivisibleByThree.java`](./FindMinimumOperationsToMakeAllElementsDivisibleByThree.java) |
 | 24 | [Binary Prefix Divisible by 5 (#1018)](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | Bit Manipulation | [`BinaryPrefixDivisibleBy5.java`](./BinaryPrefixDivisibleBy5.java) |
 | 25 | [Smallest Integer Divisible by K (#1015)](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | Math | [`SmallestIntegerDivisibleByK.java`](./SmallestIntegerDivisibleByK.java) |
+| 29 | [Minimum Operations to Make Array Sum Divisible by K (#3512)](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | Array | [`MinimumOperationsToMakeArraySumDivisibleByK.java`](./MinimumOperationsToMakeArraySumDivisibleByK.java) |
+
 
 
 ---
